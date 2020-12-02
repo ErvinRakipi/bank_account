@@ -2,6 +2,8 @@ package model;
 
 import java.util.ArrayList;
 
+// Whats up Ervin?
+
 public class Bank {
 
 	private String name;
